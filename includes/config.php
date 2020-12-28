@@ -15,6 +15,6 @@
   define( 'DB_HOST', 'bqof7tfigb5u0axgkqfq-mysql.services.clever-cloud.com' );          // Set database host
   define( 'DB_USER', 'uaveo8ukkstfpop7' );             // Set database user
   define( 'DB_PASS', '5HeG2pYv2zNmSxYcRBdM' );             // Set database password
-  define( 'DB_NAME', 'buah3bvfztgypsbrhijc' );        // Set database name
+  define( 'DB_NAME', 'bqof7tfigb5u0axgkqfq' );        // Set database name
 
 ?>
