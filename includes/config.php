@@ -12,9 +12,9 @@
 |
 |
 */
-  define( 'DB_HOST', 'buah3bvfztgypsbrhijc-mysql.services.clever-cloud.com' );          // Set database host
-  define( 'DB_USER', 'utqlaf0uataif76a' );             // Set database user
-  define( 'DB_PASS', 'lvj0IqIPdmSzHVyat6wA' );             // Set database password
+  define( 'DB_HOST', 'bqof7tfigb5u0axgkqfq-mysql.services.clever-cloud.com' );          // Set database host
+  define( 'DB_USER', 'uaveo8ukkstfpop7' );             // Set database user
+  define( 'DB_PASS', '5HeG2pYv2zNmSxYcRBdM' );             // Set database password
   define( 'DB_NAME', 'buah3bvfztgypsbrhijc' );        // Set database name
 
 ?>
